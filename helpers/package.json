@@ -17,7 +17,7 @@
     "node": ">=16"
   },
   "dependencies": {
-    "markdownlint-micromark": "0.1.2"
+    "markdownlint-micromark": "0.1.10"
   },
   "keywords": [
     "markdownlint",
