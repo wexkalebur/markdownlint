@@ -65,8 +65,8 @@
     "node": ">=18"
   },
   "dependencies": {
-    "markdown-it": "14.0.0",
-    "markdownlint-micromark": "0.1.8"
+    "markdown-it": "14.1.0",
+    "markdownlint-micromark": "0.1.10"
   },
   "devDependencies": {
     "@babel/core": "7.23.7",
